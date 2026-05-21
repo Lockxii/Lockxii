@@ -55,21 +55,15 @@ Passion: Building cool and useful things
 
 # 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lockxii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lockxii&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=Lockxii&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lockxii&layout=compact&theme=tokyonight" alt="Top Languages" />
 
 ---
 
-# 📈 Contributions
+# 📈 Contribution Graph
 
-<div align="center">
-  <p>
-    <strong>1,300+ contributions</strong> in the last year<br/>
-    <img src="https://img.shields.io/badge/Total%20Contributions-1300+-6C63FF?style=for-the-badge&logo=github" alt="Contributions" />
-  </p>
-</div>
+[![Lockxii's GitHub Activity](https://github-contribution-graph.vercel.app/api?username=Lockxii&theme=tokyonight)](https://github.com/Lockxii)
 
 ---
 
