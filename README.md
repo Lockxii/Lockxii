@@ -1,14 +1,14 @@
 <div align="center">
 
-# 👋 Hey, I'm Lockxi
+# 👋 Hey, I'm Lockxii
 
-### 💻 Developer • 🚀 Creator • ⚡ Tech Enthusiast
+### Fullstack Developer • Creator • Tech Enthusiast
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Passionate+about+Technology;Building+cool+projects;Always+learning+new+things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Passionate+about+Technology;Building+cool+projects;Always+learning+new+things" />
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=lockxi&label=Profile%20views&color=6C63FF&style=flat" alt="views" />
+<img src="https://komarev.com/ghpvc/?username=lockxii&label=Profile%20views&color=6C63FF&style=flat" alt="views" />
 
 </div>
 
@@ -17,17 +17,17 @@
 # 🚀 About Me
 
 ```yaml
-Name: Lockxi
+Name: Lockxii
 Role: Fullstack Developer
 Focus: Web Development / Automation / Creative Projects
 Languages: JavaScript, Python, SQL
-Currently Learning: Advanced Backend & DevOps
-Passion: Building useful and innovative things
+Currently Learning: Backend & DevOps
+Passion: Building cool and useful things
 ```
 
-💡 I love creating projects, experimenting with new technologies and pushing my skills further every day.  
-⚡ Always working on new ideas and improving existing ones.  
-🎯 Goal: Build impactful projects and grow as a developer.
+💡 I love creating projects, experimenting with new technologies and improving my skills every day.  
+⚡ Always working on something new.  
+🎯 My goal is to become an excellent developer and build impactful projects.
 
 ---
 
@@ -55,58 +55,50 @@ Passion: Building useful and innovative things
 
 # 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lockxii&show_icons=true&theme=tokyonight" height="165"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=lockxi&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lockxi&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lockxii&layout=compact&theme=tokyonight" height="165"/>
+</p>
 
 ---
 
 # 🔥 Streak Stats
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=lockxi&theme=tokyonight&hide_border=true" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lockxii&theme=tokyonight" />
+</p>
 
 ---
 
 # 🚧 Current Goals
 
-- 🚀 Improve my backend architecture skills
-- 🔒 Learn more about cybersecurity
-- 🌍 Create impactful public projects
-- ⚡ Master DevOps & deployment
-- 📈 Grow my GitHub portfolio
+- Improve my backend skills
+- Launch my own SAAS
+- Create public projects
+- Master AI funnels
+- Grow my GitHub portfolio
 
 ---
 
 # 🌐 Socials
 
 <p align="center">
-  <a href="https://github.com/lockxi">
+  <a href="https://github.com/lockxii">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 
-  <a href="https://discord.com">
+  <a href="https://discord.com/lockxi">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>
 
 ---
 
-# 🧠 Quote
-
-> "Code. Create. Improve. Repeat."
-
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### Thanks for visiting my profile!
 
 </div>
