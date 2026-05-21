@@ -53,16 +53,6 @@ Passion: Building cool and useful things
 
 ---
 
----
-
-# 📊 GitHub Stats
-
-![GitHub Contributions](https://img.shields.io/github/contributions/Lockxii/Lockxii?color=6C63FF&label=Commits)
-![GitHub Followers](https://img.shields.io/github/followers/Lockxii?label=Followers)
-![GitHub Repo stars](https://img.shields.io/github/stars/Lockxii?label=Repo%20Stars&logo=github)
-
----
-
 # 🚧 Current Goals
 
 - Improve my backend skills
