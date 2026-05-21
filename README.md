@@ -55,15 +55,22 @@ Passion: Building cool and useful things
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=Lockxii&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lockxii&layout=compact&theme=tokyonight)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lockxii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lockxii&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
 
 ---
 
-# 🔥 Streak Stats
+# 📈 Contributions
 
-![](https://streak-stats.demolab.com/?user=Lockxii&theme=tokyonight)
+<div align="center">
+  <p>
+    <strong>1,300+ contributions</strong> in the last year<br/>
+    <img src="https://img.shields.io/badge/Total%20Contributions-1300+-6C63FF?style=for-the-badge&logo=github" alt="Contributions" />
+  </p>
+</div>
+
 ---
 
 # 🚧 Current Goals
