@@ -23,53 +23,90 @@ Focus: Web Development / Automation / Creative Projects
 Languages: JavaScript, Python, SQL
 Currently Learning: Advanced Backend & DevOps
 Passion: Building useful and innovative things
+```
 
-💡 I love creating projects, experimenting with new technologies and pushing my skills further every day.
-⚡ Always working on new ideas and improving existing ones.
+💡 I love creating projects, experimenting with new technologies and pushing my skills further every day.  
+⚡ Always working on new ideas and improving existing ones.  
 🎯 Goal: Build impactful projects and grow as a developer.
 
-🛠️ Tech Stack
+---
 
+# 🛠️ Tech Stack
 
-👨‍💻 Languages
+## 👨‍💻 Languages
 
-<p> <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,sql" /> </p>
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,sql" />
+</p>
 
-⚙️ Frameworks & Tools
+## ⚙️ Frameworks & Tools
 
-<p> <img src="https://skillicons.dev/icons?i=nodejs,vue,react,nextjs,tailwind,express,docker,git,github,vscode" /> </p>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,vue,react,nextjs,tailwind,express,docker,git,github,vscode" />
+</p>
 
-🗄️ Databases
+## 🗄️ Databases
 
-<p> <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" /> </p>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+</p>
 
-📊 GitHub Stats
+---
 
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=lockxi&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lockxi&layout=compact&theme=tokyonight&hide_border=true" /> </div>
-🔥 Streak Stats
-
-<div align="center"> <img src="https://streak-stats.demolab.com?user=lockxi&theme=tokyonight&hide_border=true" /> </div>
-
-🚧 Current Goals
-
-🚀 Improve my backend architecture skills
-
-🔒 Learn more about cybersecurity
-
-🌍 Create impactful public projects
-
-⚡ Master DevOps & deployment
-
-📈 Grow my GitHub portfolio
-
-🌐 Socials
-
-<p align="center"> <a href="https://github.com/lockxi"> <img src="https://skillicons.dev/icons?i=github" /> </a> <a href="https://discord.com"> <img src="https://skillicons.dev/icons?i=discord" /> </a> </p>
-
-🧠 Quote
-
-“Code. Create. Improve. Repeat.”
+# 📊 GitHub Stats
 
 <div align="center">
-⭐ Thanks for visiting my profile!
-</div> ```
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=lockxi&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lockxi&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🔥 Streak Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=lockxi&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🚧 Current Goals
+
+- 🚀 Improve my backend architecture skills
+- 🔒 Learn more about cybersecurity
+- 🌍 Create impactful public projects
+- ⚡ Master DevOps & deployment
+- 📈 Grow my GitHub portfolio
+
+---
+
+# 🌐 Socials
+
+<p align="center">
+  <a href="https://github.com/lockxi">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+
+  <a href="https://discord.com">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+</p>
+
+---
+
+# 🧠 Quote
+
+> "Code. Create. Improve. Repeat."
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+</div>
