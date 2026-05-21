@@ -55,21 +55,25 @@ Passion: Building cool and useful things
 
 # 📊 GitHub Stats
 
-[![Lockxii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lockxii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/Lockxii)
+| Statistic | Value |
+|-----------|-------|
+| **Public Repos** | 6 |
+| **Total Contributions (Last Year)** | 1,300+ |
+| **Primary Language** | TypeScript |
+| **Top Framework** | Next.js / React |
 
 ---
 
-# 📈 Top Languages
+# 🔥 Recent Projects
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lockxii&theme=tokyonight&layout=compact)](https://github.com/Lockxii)
+- **🎨 Boardly** - Real-time collaborative whiteboard  
+  TypeScript | Next.js | [Live](https://boardly-r3xr.vercel.app/)
 
----
+- **🔗 LinkFlow** - URL shortener & link management  
+  TypeScript | Next.js | [Live](https://linkflow-nu.vercel.app)
 
-# 🔥 Contributions
-
-**1,300+ contributions** in the last year
-
-Visit my [GitHub profile](https://github.com/Lockxii) to see my contribution graph and activity!
+- **🎭 MetaConvert** - Meta tag converter & optimizer  
+  TypeScript | Next.js | [Live](https://meta-convert-steel.vercel.app)
 
 ---
 
@@ -87,11 +91,11 @@ Visit my [GitHub profile](https://github.com/Lockxii) to see my contribution gra
 
 <p align="center">
   <a href="https://github.com/lockxii">
-    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
 
   <a href="https://discord.com/lockxi">
-    <img src="https://skillicons.dev/icons?i=discord" />
+    <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
   </a>
 </p>
 
