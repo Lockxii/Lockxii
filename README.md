@@ -55,15 +55,21 @@ Passion: Building cool and useful things
 
 # 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Lockxii&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lockxii&layout=compact&theme=tokyonight" alt="Top Languages" />
+[![Lockxii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lockxii&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/Lockxii)
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Top Languages
 
-[![Lockxii's GitHub Activity](https://github-contribution-graph.vercel.app/api?username=Lockxii&theme=tokyonight)](https://github.com/Lockxii)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lockxii&theme=tokyonight&layout=compact)](https://github.com/Lockxii)
+
+---
+
+# 🔥 Contributions
+
+**1,300+ contributions** in the last year
+
+Visit my [GitHub profile](https://github.com/Lockxii) to see my contribution graph and activity!
 
 ---
 
@@ -88,8 +94,6 @@ Passion: Building cool and useful things
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </p>
-
----
 
 ---
 
