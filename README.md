@@ -55,19 +55,15 @@ Passion: Building cool and useful things
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lockxii&show_icons=true&theme=tokyonight" height="165"/>
+![Lockxii's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lockxii&show_icons=true&theme=tokyonight)
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lockxii&layout=compact&theme=tokyonight" height="165"/>
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lockxii&layout=compact&theme=tokyonight)
 
 ---
 
 # 🔥 Streak Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lockxii&theme=tokyonight" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=Lockxii&theme=tokyonight)
 
 ---
 
